@@ -10,3 +10,4 @@ public abstract class AbstractGenerator<T> implements Generator<T> {
         return random.nextInt(range);
     }
 }
+//
