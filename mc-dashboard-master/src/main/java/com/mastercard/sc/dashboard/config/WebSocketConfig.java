@@ -21,3 +21,4 @@ public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer {
         registry.addEndpoint("/dashboard").withSockJS();
     }
 }
+//
