@@ -15,3 +15,4 @@ public class FraudAttempt extends HashMap<String, String> {
         this.put("quantity", quantity);
     }
 }
+//
