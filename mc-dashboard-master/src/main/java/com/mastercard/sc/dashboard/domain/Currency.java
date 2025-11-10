@@ -5,3 +5,4 @@ public enum Currency {
     GBP,
     EUR
 }
+//
