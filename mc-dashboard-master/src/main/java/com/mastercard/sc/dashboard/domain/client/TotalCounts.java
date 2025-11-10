@@ -31,3 +31,4 @@ public class TotalCounts extends HashMap<String, Double> {
         this.put(TOTAL_PURCHASED_ITEMS, this.get(TOTAL_PURCHASED_ITEMS) - quantity);
     }
 }
+//
