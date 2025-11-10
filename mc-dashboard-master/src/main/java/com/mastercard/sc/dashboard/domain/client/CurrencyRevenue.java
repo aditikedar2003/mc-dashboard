@@ -20,3 +20,4 @@ public class CurrencyRevenue extends HashMap<String, Double> {
         this.put(currency, this.get(currency) - (amount / 100));
     }
 }
+//
