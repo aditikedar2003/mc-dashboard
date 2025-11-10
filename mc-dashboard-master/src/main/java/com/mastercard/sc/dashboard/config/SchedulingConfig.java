@@ -21,3 +21,4 @@ public class SchedulingConfig implements SchedulingConfigurer {
         taskRegistrar.setTaskScheduler(taskScheduler());
     }
 }
+//
